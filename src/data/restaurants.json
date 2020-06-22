@@ -1,10 +1,82 @@
 [
     {
+        "name": "Augustiner Keller",
+        "website": "https://www.bitzinger.wien/",
+        "location": [48.204728,16.3683302],
+        "district": "Wien 1010",
+        "isBio": true,
+        "fromAustria": true
+    },
+    {
+        "name": "Labstelle",
+        "website": "http://www.labstelle.at/",
+        "location": [48.2096397,16.3746946],
+        "district": "Wien 1010",
+        "isBio": false,
+        "fromAustria": true
+    },
+    {
+        "name": "Zum weißen Rauchfangkehrer",
+        "website": "http://www.weisser-rauchfangkehrer.at/de/",
+        "location": [48.206858,16.372777],
+        "district": "Wien 1010",
+        "isBio": true,
+        "fromAustria": true
+    },
+    {
         "name": "Kolariks Luftburg",
         "website": "https://kolarik.at/places/kolariks-luftburg/",
-        "location": [48.2135068,16.4035716],
+        "location": [48.2132759,16.4035807],
         "district": "Wien 1020",
         "isBio": true,
+        "fromAustria": true
+    },
+    {
+        "name": "Weinschenke Karmelitamarkt",
+        "website": "https://www.weinschenke-wien.com/",
+        "location": [48.2172913,16.3774064],
+        "district": "Wien 1020",
+        "isBio": false,
+        "fromAustria": true
+    },
+    {
+        "name": "Weinschenke Franzengasse",
+        "website": "https://www.weinschenke-wien.com/",
+        "location": [48.1944146,16.359748],
+        "district": "Wien 1050",
+        "isBio": false,
+        "fromAustria": true
+    },
+    {
+        "name": "Addicted to Rock Getreidemarkt",
+        "website": "https://www.addictedtoburger.at/",
+        "location": [48.2017463,16.3626412],
+        "district": "Wien 1060",
+        "isBio": false,
+        "fromAustria": true
+    },
+    {
+        "name": "Weinschenke Siebenstern",
+        "website": "https://www.weinschenke-wien.com/",
+        "location": [48.2020057,16.3516521],
+        "district": "Wien 1070",
+        "isBio": false,
+        "fromAustria": true
+    },
+    {
+        "name": "Addicted to Rock Stadtbahnböden",
+        "website": "https://www.addictedtoburger.at/",
+        "location": [48.2322792,16.354261],
+        "district": "Wien 1190",
+        "isBio": false,
+        "fromAustria": true
+    },
+    {
+        "name": "Burgerbucht",
+        "website": "http://www.burgerbucht.at/",
+        "location": [47.947562,16.8447618],
+        "district": "Neusiedl am See",
+        "isBio": false,
         "fromAustria": true
     }
 ]

@@ -9,7 +9,7 @@ function Footer() {
         <Navbar fixed="bottom" bg="light">
             <FontAwesomeIcon icon={faCopyright} className="mr-1"/>
             <a className="mr-1" href="mailto:dominik.deutsch@gmail.com">Dominik Deutsch</a>
-            2020-{currentYear}
+            {currentYear}
         </Navbar>
     );
 }

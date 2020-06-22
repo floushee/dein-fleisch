@@ -19,7 +19,7 @@ function RestaurantList({t}) {
 
     const list = [];
     for (var district in districts) {
-        list.push(<h4 key={district}>{district}</h4>);
+        list.push(<h4 key={district} className="mt-4">{district}</h4>);
 
         districts[district].forEach(restaurant => {
             list.push(<ListGroup.Item key={restaurant.name}>
@@ -35,7 +35,7 @@ function RestaurantList({t}) {
     }    
         
     return (
-        <Container className="mt-4">
+        <Container className="mt-4 mb-5">
             <h3>{t('Restaurant List')}</h3>
             {list}
         </Container>
